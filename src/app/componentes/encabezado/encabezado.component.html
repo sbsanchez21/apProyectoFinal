@@ -1,0 +1,53 @@
+<div class="card mat-card" id="first-card">
+    <div id="profile-background">
+      <img
+        [src]="miPorfolio.backImage"
+      />
+    </div>
+    <div id="info" style="padding: 16px">
+      <div id="info-img">
+        <img
+          class="profile-image"
+          [src]="miPorfolio.image"
+        />
+        <div class="btn-edit">
+          <a href="#" class="btn-right"><i class="fa fa-pen"></i></a>
+        </div>
+      </div>
+      <div id="info-data">
+        <div>
+          <h1>{{miPorfolio.fullName}}</h1>
+          <div id="info-company">{{miPorfolio.position}}</div>
+          <div id="info-contact">
+            <span>{{miPorfolio.ubication}} </span>
+            <span><a href="#">Información de contacto</a></span>
+          </div>
+        </div>
+        <ul id="info-details">
+          <li>
+            <a href="#">
+              <img
+                src="https://convocatorias.conicet.gov.ar/wp-content/uploads/logo-CONICET_opt.png"
+              />
+              <h2>CONICET</h2>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img
+                src="https://inerciacero.files.wordpress.com/2011/07/logo-uba.png"
+              />
+              <h2>Universidad de Buenos Aires</h2>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="info-actions">
+        <button type="button" class="btn btn-primary">
+          Tengo interés en
+        </button>
+        <button type="button" class="btn btn-light">Añadir Sección</button>
+        <button type="button" class="btn btn-light">Más</button>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,80 @@
+{
+	"name": "Manuel Sadosky",
+	"backImage": "https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-black-shading-red-shard-geometry-banner-background-shadingred-debrisred-glowgeometry-image_80184.jpg",
+	"image": "https://i2.wp.com/imagenes.milenio.com/E-yJnq9EhkZhWaU7T_2utkyTymQ=/958x596/smart/https://www.milenio.com/uploads/media/2018/10/05/steve-jobs-perdio-vida-consecuencia_0_199_1193_742.jpg?w=640&ssl=1",
+	"position": "informático en el CONICET",
+	"company": {
+		"name": "CONICET",
+		"img": "https://es.wikipedia.org/wiki/Consejo_Nacional_de_Investigaciones_Cient%C3%ADficas_y_T%C3%A9cnicas_(Argentina)#/media/Archivo:Conicet_Logo_con_letras.png",
+		"url": "#"
+	},
+	"school": {
+		"name": "Universidad de Buenos Aires",
+		"img": "https://es.wikipedia.org/wiki/Universidad_de_Buenos_Aires#/media/Archivo:UBA.svg",
+		"url": "#"
+	},
+	"ubication": "Buenos Aires (Argentina) ",
+	"about": "Matemático, físico e informático argentino considerado por muchos como el padre de la computación en la Argentina.",
+	"experience": [{
+		"position": "Backend Developer",
+		"company": "Pixar",
+		"img": "https://media-exp1.licdn.com/dms/image/C4E0BAQFhOoraRhsOSQ/company-logo_100_100/0/1590421269154?e=1637798400&v=beta&t=gyinTA0GPG1xIBDPj01L33mQHcdOdyMOdpoRHY640Pc",
+		"mode": "Jornada parcial",
+		"start": "mar 2019",
+		"end": "actualidad",
+		"timeElapsed": "2 años y 6 meses"
+	}],
+	"education": [{
+			"school": "UTN",
+			"title": "Ingeniería",
+			"img": "https://www.ort.edu.ar/img/LogoOrtArgWeb2017.jpg",
+			"career": "Ingeniería en Sistemas de Información",
+			"score": 0,
+			"start": "2019",
+			"end": "2023"
+		},
+		{
+			"school": "Centro de Enseñanza Técnica Industrial",
+			"title": "Tecnologo",
+			"img": "https://media-exp1.licdn.com/dms/image/C560BAQEUHhax7RCj0A/company-logo_100_100/0/1584819716706?e=1637798400&v=beta&t=4UkXYz39PCtn4PqDYbwXZNWPSC3MgoHckfDfqQLBlHc",
+			"career": "Desarrollo de Software",
+			"score": 82,
+			"start": "2014",
+			"end": "2018"
+		},
+		{
+			"school": "Escuela Secundaria Técnica 14",
+			"title": "Técnico",
+			"img": "https://media-exp1.licdn.com/dms/image/C4E0BAQFhOoraRhsOSQ/company-logo_100_100/0/1590421269154?e=1637798400&v=beta&t=gyinTA0GPG1xIBDPj01L33mQHcdOdyMOdpoRHY640Pc",
+			"career": "Electronica, comunicacion y sistemas de control",
+			"score": 0,
+			"start": "2012",
+			"end": "2014"
+		}
+	],
+	"aptitudes": [{
+			"name": "Resolución de problemas",
+			"progress": 75,
+			"confirms": 2,
+			"confirmsNames": [{
+				"name": "Nikolai Emmanuel Bayro Jablonski"
+			}]
+		},
+		{
+			"name": "Diseño de Sistemas",
+			"confirms": 3,
+			"confirmsNames": [{
+				"name": "Nikolai Emmanuel Bayro Jablonski"
+			}]
+		}
+	],
+	"achivements": [{
+			"name": "Huaro App"
+		},
+		{
+			"name": "Lanterns 19/09"
+		}
+	]
+
+
+}
